@@ -1,0 +1,19 @@
+Project: AI Interview Trainer Agent
+
+Description:
+This agent simulates a real interview environment. It asks questions, evaluates user responses, and provides structured feedback including scores, strengths, and improvement suggestions.
+
+Components Used:
+- Behavior prompt for interview flow
+- Guideline for evaluation (score, feedback, suggestions)
+- Resume as knowledge source
+- Chat with documents enabled
+
+Functionality:
+- Conducts mock interviews
+- Evaluates answers based on clarity and relevance
+- Generates personalized feedback
+- Provides final performance report
+
+Deployment:
+Deployed and live within IBM Watsonx Orchestrate environment

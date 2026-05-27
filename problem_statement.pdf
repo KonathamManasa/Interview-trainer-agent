@@ -1,0 +1,64 @@
+🟦 Project Title
+
+Interview Trainer Agent
+
+🟦 1. Introduction
+
+In today’s competitive job market, interviews play a crucial role in determining a candidate’s success. However, many students and job seekers lack proper preparation due to limited access to mock interviews, real-time feedback, and structured guidance.
+
+Traditional preparation methods such as reading questions or watching videos do not provide interactive learning or performance evaluation. As a result, candidates often struggle with confidence, communication skills, and answering questions effectively.
+
+🟦 2. Problem Description
+
+Many candidates face the following challenges during interview preparation:
+
+Lack of real interview practice
+No personalized feedback on answers
+Difficulty in identifying strengths and weaknesses
+Limited access to mentors or mock interview platforms
+Fear and lack of confidence during actual interviews
+
+These issues reduce the chances of performing well in interviews and securing job opportunities.
+
+🟦 3. Objective
+
+The objective of this project is to develop an Interview Trainer Agent that helps users practice interviews in an interactive and structured way.
+
+The system aims to:
+
+Simulate real interview scenarios
+Ask relevant technical and HR questions
+Evaluate user responses in real time
+Provide feedback and performance scores
+Help users improve communication and problem-solving skills
+🟦 4. Proposed Solution
+
+The proposed solution is an AI-powered Interview Trainer Agent built using IBM Watsonx Orchestrate and Granite models.
+
+The agent interacts with users by asking interview questions based on selected roles and difficulty levels. It analyzes the user’s responses and provides structured feedback, including:
+
+Score
+Strengths
+Weaknesses
+Suggestions for improvement
+
+The system also supports resume-based question generation, making the interview experience more personalized and realistic.
+
+🟦 5. Scope of the Project
+
+This project can be used by:
+
+Students preparing for campus placements
+Job seekers preparing for interviews
+Individuals looking to improve communication skills
+
+It can be extended in the future with features like voice interaction, web interface, and advanced analytics.
+
+🟦 6. Expected Outcome
+
+The Interview Trainer Agent will:
+
+Improve user confidence
+Provide structured learning and feedback
+Simulate real interview experience
+Help users perform better in actual interviews

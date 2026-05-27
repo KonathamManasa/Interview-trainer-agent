@@ -1,0 +1,20 @@
+{
+  "name": "Interview Trainer Agent",
+  "description": "An AI-powered Interview Trainer Agent that simulates interviews, evaluates answers, and provides feedback using IBM Watsonx Orchestrate.",
+  "version": "1.0",
+  "author": "Your Name",
+  "platform": "IBM Watsonx Orchestrate",
+  "orchestration_id": "a00c9a97b3bb491f8d4d6640993e8d09_9914b456-b6f7-417f-b097-87f69b9144d7",
+  "region": "au-syd",
+  "features": [
+    "Interview simulation",
+    "Question generation",
+    "Answer evaluation",
+    "Feedback and scoring"
+  ],
+  "technologies": [
+    "IBM Watsonx Orchestrate",
+    "IBM Granite Model",
+    "Prompt Engineering"
+  ]
+}
